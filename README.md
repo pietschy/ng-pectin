@@ -1,1 +1,1 @@
-# ng-pectin
+# pectin-ng
